@@ -7,5 +7,7 @@ public class HappyBirthday {
         System.out.println("Happy Birthday!");
         
         // edit from github
+        
+        // edit #2 from github, (git fetch / git merge test)
     }
 }
